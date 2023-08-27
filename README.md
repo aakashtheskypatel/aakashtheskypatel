@@ -16,6 +16,4 @@
 <span>
 
  ![aakashtheskypatel 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakashtheskypatel&theme=algolia&hide_border=false)
- [![aakashtheskypatel 's GitHub | Stats](https://stats.quine.sh/aakashtheskypatel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aakashtheskypatel)
- [![aakashtheskypatel 's GitHub | Dependencies](https://stats.quine.sh/aakashtheskypatel/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aakashtheskypatel)
  </span>
